@@ -1,0 +1,13 @@
+{
+	"editor.bracketPairColorization.enabled": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.detectIndentation": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"eslint.validate": ["javascript", "vue", "typescript", "json"],
+	"vetur.experimental.templateInterpolationService": true
+}
